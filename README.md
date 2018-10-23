@@ -21,8 +21,8 @@ change_lb.sh (パラメータなし)
 
 ### turn on
 
-change_lb.sh enable 1(apさーばー1)
+change_lb.sh enable 1(apサーバー1)
 
 ### turn off
 
-change_lb.sh disable 1(apさーばー1)
+change_lb.sh disable 1(apサーバー1)
